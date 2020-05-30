@@ -1,0 +1,4 @@
+[core]
+    remote = my-gcs
+['remote "my-gcs"']
+    url = gs://viewer-test/johnnie-gcp
